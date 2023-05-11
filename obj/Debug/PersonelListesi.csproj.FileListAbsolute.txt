@@ -1,0 +1,63 @@
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\PersonelListesi.exe.config
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\PersonelListesi.exe
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\PersonelListesi.pdb
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.csproj.AssemblyReference.cache
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.Form1.resources
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.FrmPerson.resources
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.Properties.Resources.resources
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.csproj.GenerateResource.cache
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.csproj.CoreCompileInputs.cache
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.exe
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.pdb
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Buffers.dll
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Memory.dll
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Text.Json.dll
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.ValueTuple.dll
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Buffers.xml
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Memory.xml
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Text.Json.xml
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bayram\source\repos\PersonelListesi\bin\Debug\System.ValueTuple.xml
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.csproj.CopyComplete
+C:\Users\bayram\source\repos\PersonelListesi\obj\Debug\PersonelListesi.AboutBox1.resources
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\PersonelListesi.exe.config
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\PersonelListesi.exe
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\PersonelListesi.pdb
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Buffers.dll
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Memory.dll
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Text.Json.dll
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.ValueTuple.dll
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Buffers.xml
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Memory.xml
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Text.Json.xml
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\bin\Debug\System.ValueTuple.xml
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.csproj.AssemblyReference.cache
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.AboutBox1.resources
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.Form1.resources
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.Properties.Resources.resources
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.csproj.GenerateResource.cache
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.csproj.CoreCompileInputs.cache
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.csproj.CopyComplete
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.exe
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.pdb
+C:\Users\İlkay EREN\Desktop\personellistesi\PersonelListesi\obj\Debug\PersonelListesi.FrmArac.resources
